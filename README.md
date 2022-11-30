@@ -8,13 +8,13 @@ Content:
 The data consists of MRI images. The data has four classes of images both in training as well as a testing set:
 
 
-Mild Demented
+-Mild Demented
 
-Moderate Demented
+-Moderate Demented
 
-Non Demented
+-Non Demented
 
-Very Mild Demented
+-Very Mild Demented
 
 
 Inspiration:
